@@ -24,7 +24,7 @@ const PersonForm = ({
         <div>
           <button type="submit" onClick={handleSubmit}>add</button>
         </div>
-      </form>
+    </form>
   )
 }
 
